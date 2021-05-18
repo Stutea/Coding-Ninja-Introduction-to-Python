@@ -4,4 +4,3 @@ This repository has solutions to practice questions from Free Trial course of Co
 2. Conditionals and Loops-Practice
 3. Conditionals and Loops-Assignment
 4. Patterns 1
-5. Basic Test
